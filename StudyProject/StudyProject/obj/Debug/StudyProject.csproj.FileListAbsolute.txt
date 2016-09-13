@@ -1,0 +1,5 @@
+E:\Saturday\Workspace\PageObject\StudyProject\StudyProject\bin\Debug\StudyProject.exe.config
+E:\Saturday\Workspace\PageObject\StudyProject\StudyProject\bin\Debug\StudyProject.exe
+E:\Saturday\Workspace\PageObject\StudyProject\StudyProject\bin\Debug\StudyProject.pdb
+E:\Saturday\Workspace\PageObject\StudyProject\StudyProject\obj\Debug\StudyProject.exe
+E:\Saturday\Workspace\PageObject\StudyProject\StudyProject\obj\Debug\StudyProject.pdb
