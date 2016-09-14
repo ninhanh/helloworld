@@ -1,5 +1,0 @@
-E:\Saturday\Workspace\PageObject\StudyProject\StudyProject\bin\Release\StudyProject.exe.config
-E:\Saturday\Workspace\PageObject\StudyProject\StudyProject\bin\Release\StudyProject.exe
-E:\Saturday\Workspace\PageObject\StudyProject\StudyProject\bin\Release\StudyProject.pdb
-E:\Saturday\Workspace\PageObject\StudyProject\StudyProject\obj\Release\StudyProject.exe
-E:\Saturday\Workspace\PageObject\StudyProject\StudyProject\obj\Release\StudyProject.pdb
