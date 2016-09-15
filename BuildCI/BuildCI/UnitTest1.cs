@@ -17,7 +17,7 @@ namespace BuildCI
         public void TestMethod2()
         {
             Console.WriteLine("Test method 2");
-            Assert.IsTrue(true);
+            Assert.IsTrue(false);
         }
 
         [Test]
