@@ -17,14 +17,14 @@ namespace BuildCI
         public void TestMethod2()
         {
             Console.WriteLine("Test method 2");
-            Assert.IsTrue(false);
+            Assert.IsTrue(true);
         }
 
         [Test]
         public void TestMethod3()
         {
             Console.WriteLine("Test method 3");
-            Assert.IsTrue(true);
+            Assert.IsTrue(false);
         }
 
         [Test]
